@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    font-size: 30px;
+}
+#apps{
+    background-color: aliceblue;
+}
+.line{
+    width: 70px;
+    height: 6px;
+    background-color: black;
+    margin: 8px auto;
+}
+#games{
+    background-color: lightcoral;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 2px solid white;
+    padding: 2px;
+    margin: 2px;
+}
+#chatbot{
+background-color: crimson;
+}
